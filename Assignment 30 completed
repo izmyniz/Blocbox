@@ -5,21 +5,21 @@
    position: relative;
  }
  header .hero h1 {
-   font-size:48px;
+   font-size:68px;
    font-weight: normal;
-   margin:95px 0 0;
+   margin:100px 0 0;
  }
  header .hero p {
-   font-size: 22px;
+   font-size: 44px;
    line-height: 26px;
-   font-weight: 100;
+   font-weight: 200;
    margin:10px 0 40px;
  }
  header .hero img {
    display: block;
    margin:3em auto 0;
  }
-   @media screen and (max-width: 280px) {
+   @media screen and (max-width: 500px) {
     body {
         background-color: light orange;
     }
